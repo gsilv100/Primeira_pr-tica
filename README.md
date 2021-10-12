@@ -1,2 +1,2 @@
-# Primeira_pr-tica
+# Primeira_pratica
 Portfólio
