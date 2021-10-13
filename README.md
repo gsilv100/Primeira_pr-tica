@@ -24,3 +24,6 @@ _tipos de gerador de text para icons/imagens etc para colocar como icones/aprese
 
 #tarefas
     Estrutureas de arquivos gerais do portólio
+
+#tarefas numeros dois...//detakhes novos
+
